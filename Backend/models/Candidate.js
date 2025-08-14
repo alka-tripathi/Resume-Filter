@@ -1,5 +1,8 @@
 import mongoose from 'mongoose';
 
+
+
+//it will store the filtered details
 const candidateSchema = new mongoose.Schema(
   {
     name: {
